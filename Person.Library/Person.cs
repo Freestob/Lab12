@@ -18,7 +18,7 @@ namespace Persons.Library
         }
         public override string ToString()
         {
-            return ($"{ GetAddress()}, {GetName()}");
+            return ($"{GetName()}, {GetAddress()}");
         }
         public string GetName()
         {

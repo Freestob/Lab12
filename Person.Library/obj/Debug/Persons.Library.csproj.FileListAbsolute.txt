@@ -1,0 +1,6 @@
+C:\Users\frees\source\repos\Lab12\Person.Library\bin\Debug\Person.Library.dll
+C:\Users\frees\source\repos\Lab12\Person.Library\bin\Debug\Person.Library.pdb
+C:\Users\frees\source\repos\Lab12\Person.Library\obj\Debug\Persons.Library.csprojAssemblyReference.cache
+C:\Users\frees\source\repos\Lab12\Person.Library\obj\Debug\Persons.Library.csproj.CoreCompileInputs.cache
+C:\Users\frees\source\repos\Lab12\Person.Library\obj\Debug\Person.Library.dll
+C:\Users\frees\source\repos\Lab12\Person.Library\obj\Debug\Person.Library.pdb

@@ -1,0 +1,10 @@
+C:\Users\frees\source\repos\Lab12\Lab12\bin\Debug\Lab12.exe.config
+C:\Users\frees\source\repos\Lab12\Lab12\bin\Debug\Lab12.exe
+C:\Users\frees\source\repos\Lab12\Lab12\bin\Debug\Lab12.pdb
+C:\Users\frees\source\repos\Lab12\Lab12\bin\Debug\Person.Library.dll
+C:\Users\frees\source\repos\Lab12\Lab12\bin\Debug\Person.Library.pdb
+C:\Users\frees\source\repos\Lab12\Lab12\obj\Debug\Lab12.csprojAssemblyReference.cache
+C:\Users\frees\source\repos\Lab12\Lab12\obj\Debug\Lab12.csproj.CoreCompileInputs.cache
+C:\Users\frees\source\repos\Lab12\Lab12\obj\Debug\Lab12.csproj.CopyComplete
+C:\Users\frees\source\repos\Lab12\Lab12\obj\Debug\Lab12.exe
+C:\Users\frees\source\repos\Lab12\Lab12\obj\Debug\Lab12.pdb

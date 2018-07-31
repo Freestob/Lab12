@@ -4,9 +4,29 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Person.Library
+namespace Persons.Library
 {
-    public class Class1
-    {
+    public class Student : Person
+    {   
+        private string Program { get; set; }
+        private int Year { get; set; }
+        private double Fee { get; set; }
+
+        public Student(string name, string address, string program, int year, double fee) : base(name, address)
+        {
+            Year = year;
+            Program = program;
+            Fee = fee;
+        }
+
+        public override string ToString()
+        {
+            return ($"{GetName()},{GetAddress()},{Year}, {Program}, {Fee}");
+        }
+
+        
+
+
     }
 }
+ 
