@@ -15,7 +15,6 @@ namespace Lab12
             {
                  new Student("Bradley Freestone", "Wealthy St", "Boot Camp", 2018, 8750),
                  new Staff("Brian Gardner", "Monroe Ave", "Grand Circus", 250000),
-                 new Person("Buttface McButtface", "Arse Lane")
             };
            
             foreach(Person x in listofPersons)
